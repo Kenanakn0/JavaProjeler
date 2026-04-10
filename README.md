@@ -1,4 +1,4 @@
-# ☕ Java Programming Playground
+# ☕ Java Programming
 
 Merhaba! 👋 Bu depo, Java programlama dilindeki öğrenme sürecimi, nesne yönelimli programlama (OOP) pratiklerimi ve temel algoritma çalışmalarımı içeren kişisel bir kod arşividir.
 
